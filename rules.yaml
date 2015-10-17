@@ -1,0 +1,4 @@
+access:
+  - location: '/'
+    read: auth !== null
+    write: false
